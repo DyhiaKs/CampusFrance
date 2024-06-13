@@ -5747,7 +5747,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dyhia\\.nuget\\packages\\": {}
+    "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5755,11 +5755,11 @@
       "projectUniqueName": "C:\\Users\\dyhia\\source\\repos\\SpecFlowBDDCampus\\SpecFlowBDDCampus\\SpecFlowBDDCampus.csproj",
       "projectName": "SpecFlowBDDCampus",
       "projectPath": "C:\\Users\\dyhia\\source\\repos\\SpecFlowBDDCampus\\SpecFlowBDDCampus\\SpecFlowBDDCampus.csproj",
-      "packagesPath": "C:\\Users\\dyhia\\.nuget\\packages\\",
+      "packagesPath": "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dyhia\\source\\repos\\SpecFlowBDDCampus\\SpecFlowBDDCampus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dyhia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -4,6 +4,9 @@ C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\testhost.exe
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\testhost.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\NUnit3.TestAdapter.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\nunit.engine.dll
@@ -29,6 +32,8 @@ C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\WebDriver.Support.dll
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\WebDriver.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\TechTalk.SpecFlow.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
@@ -105,14 +110,10 @@ C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.AssemblyInfoInputs.cache
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.AssemblyInfo.cs
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.csproj.CoreCompileInputs.cache
+C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.sourcelink.json
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlow.2BF9676B.Up2Date
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\refint\SpecFlowBDDCampus.dll
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.pdb
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\SpecFlowBDDCampus.genruntimeconfig.cache
 C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\obj\Debug\net6.0\ref\SpecFlowBDDCampus.dll
-C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
-C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
-C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
-C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\WebDriver.Support.dll
-C:\Users\dyhia\source\repos\SpecFlowBDDCampus\SpecFlowBDDCampus\bin\Debug\net6.0\WebDriver.dll
